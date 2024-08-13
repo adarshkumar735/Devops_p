@@ -1,0 +1,7 @@
+1.git init
+2.create a file(cat command)
+cat>>filename
+3.git add file name
+4.git commit -m "msg"
+5.to see previous commands (history)
+6.to see the commit id (git log)
